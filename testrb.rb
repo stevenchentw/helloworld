@@ -1,6 +1,5 @@
 puts "誰想要開妹妹？"
 puts "plz answer"
-
 begin
 	begin
   puts (" 1. Kahoo 2. Steven 3. Hugo ")
