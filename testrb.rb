@@ -16,10 +16,10 @@ puts "TNO"
   elsif x == 2
   	puts ("Steven說：")
     puts ("台灣很好玩~ 可以聊一下")
-  elseif x == 3 
+  elsif x == 3 
   	puts ("Hugo說：")
     puts ("年輕的妹妹我很多, 你要哪一個？")
-  elseif x == 4
+  elsif x == 4
 	puts ("Max說：")
     puts ("你們真無聊, 我都直接叫到家")
   end
