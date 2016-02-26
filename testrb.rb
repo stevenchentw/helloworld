@@ -4,3 +4,5 @@ x = gets()
 puts x + "let's go~~~"
 
 puts "Taiwan Number One"
+
+puts "TNO"
