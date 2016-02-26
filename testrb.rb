@@ -2,7 +2,7 @@ puts "誰想要開妹妹？"
 puts "plz answer"
 begin
 	begin
-  puts (" 1. Kahoo 2. Steven 3. Hugo ")
+  puts (" 1. Kahoo 2. Steven 3. Hugo 4.Max")
   x = gets().to_i
   end while ![1,2,3,4].include?(x)
 
