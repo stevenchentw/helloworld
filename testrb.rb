@@ -10,6 +10,7 @@ begin
 puts "Taiwan Number One"
 
 puts "TNO"
+
   if x == 1
   	puts ("Kahoo說：")
     puts ("來香港桑拿啦~ 很好玩的")
